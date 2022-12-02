@@ -12,9 +12,8 @@
 // Flip Flops for Pipelining
 
 
-module Asma_Mohsin_top (input [1:0] io_in,
-  output [7:0] io_out);
-	
+module Asma_Mohsin_top (io_in,io_out);
+	input [7:0] io_in
 	parameter N = 8;							// Data Width
 	parameter M_AW = 10;						// Address Width -> Image memory
 	parameter F_AW = 3;						// Address Width -> Filter memory
