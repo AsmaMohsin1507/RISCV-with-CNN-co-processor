@@ -13,7 +13,7 @@
 
 
 module Asma_Mohsin_top (io_in,io_out);
-	input [7:0] io_in
+	input [7:0] io_in;
 	parameter N = 8;							// Data Width
 	parameter M_AW = 10;						// Address Width -> Image memory
 	parameter F_AW = 3;						// Address Width -> Filter memory
