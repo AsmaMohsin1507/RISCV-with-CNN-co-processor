@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 5
-timestamp 1670049064
+timestamp 1670050293
 << obsm1 >>
 rect 672 855 59304 58561
 << metal2 >>
@@ -1817,7 +1817,7 @@ string FIXED_BBOX 0 0 60000 60000
 string LEFclass BLOCK
 string LEFview TRUE
 string GDS_END 11047988
-string GDS_FILE /home/runner/work/RISCV-with-CNN-co-processor/RISCV-with-CNN-co-processor/openlane/tiny_user_project/runs/22_12_03_06_26/results/signoff/tiny_user_project.magic.gds
+string GDS_FILE /home/runner/work/RISCV-with-CNN-co-processor/RISCV-with-CNN-co-processor/openlane/tiny_user_project/runs/22_12_03_06_47/results/signoff/tiny_user_project.magic.gds
 string GDS_START 345920
 << end >>
 
